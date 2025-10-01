@@ -11,3 +11,6 @@ public abstract class Card {
     
     // Aldaketa
 }
+
+
+
