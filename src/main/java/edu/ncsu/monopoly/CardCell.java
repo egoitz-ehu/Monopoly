@@ -14,4 +14,5 @@ public class CardCell extends Cell {
     public int getType() {
         return type;
     }
+    
 }
